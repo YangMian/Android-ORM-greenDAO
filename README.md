@@ -113,7 +113,7 @@
 
     }
   
-  感谢tangqi92（https://github.com/tangqi92）Android studio中使用greenDao的图片
+  感谢tangqi92（ https://github.com/tangqi92 ） Android studio中使用greenDao的图片
 
 
 
